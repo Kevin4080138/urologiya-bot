@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
-TOKEN = "8949343588:AAGzK4LOSAKkfAmL3umigbqhP6TQW26D7vQ"
+TOKEN = "8949343588:AAGAxOyb8CCdmHBhh1mlPi2VH8JbbwSPP2g"
 
 # ==================== MAVZULAR ====================
 MAVZULAR = {
